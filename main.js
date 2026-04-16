@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- Countdown Logic ---
-    const ceremonyDate = new Date("April 17, 2026 18:00:00").getTime();
+    const ceremonyDate = new Date("April 19, 2026 14:00:00").getTime();
     const eventEndDate = new Date("April 19, 2026 02:00:00").getTime();
     const countdownLabel = document.getElementById('countdown-label');
     const countdownWrapper = document.querySelector('.countdown-wrapper');
